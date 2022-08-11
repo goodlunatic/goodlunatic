@@ -6,8 +6,6 @@
 <!--GitHub Readme Stats-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodlunatic&show_icons=true&theme=radical)
 
-<!--Github Readme Activity Graph-->
-![](https://activity-graph.herokuapp.com/graph?username=goodlunatic&theme=github)
 
 
 

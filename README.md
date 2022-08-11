@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20To%20My%20Github！;Have%20a%20Nice%20day%20:)&font=Roboto" />
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Lunatic" title="👋 Hi there! I'm reza"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20Friends%20Welcome%20To%20My%20Github！;Hope%20You%20Have%20A%20Nice%20Day%20:)&font=Roboto" />
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
 <a href="https://blog.csdn.net/qq_60923912?spm=1000.2115.3001.5343"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>

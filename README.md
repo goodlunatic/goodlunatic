@@ -6,7 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodlunatic)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://activity-graph.herokuapp.com/graph?username=goodlunatic&theme=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodlunatic&show_icons=true&theme=radical)
 
 <!--
 **goodlunatic/goodlunatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

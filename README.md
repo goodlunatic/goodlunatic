@@ -4,9 +4,11 @@
 <a href="https://blog.csdn.net/qq_60923912?spm=1000.2115.3001.5343"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
 </p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&theme=dark&layout=compact)
+
+
 <!--
 **goodlunatic/goodlunatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

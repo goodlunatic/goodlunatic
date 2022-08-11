@@ -3,10 +3,13 @@
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
 <a href="https://blog.csdn.net/qq_60923912?spm=1000.2115.3001.5343"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodlunatic)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--GitHub Readme Stats-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodlunatic&show_icons=true&theme=radical)
+
+<!--Github Readme Activity Graph-->
+![](https://activity-graph.herokuapp.com/graph?username=goodlunatic&theme=github)
+
+
 
 <!--
 **goodlunatic/goodlunatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

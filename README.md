@@ -7,6 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=goodlunatic&theme=dark&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=goodlunatic&theme=dark&layout=compact)
 
+![](https://activity-graph.herokuapp.com/graph?username=你的Github用户名&theme=github)
 
 <!--
 **goodlunatic/goodlunatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -28,7 +28,7 @@ The OS I used：👇
 
 <!--Github Readme Activity Graph-->
 ![](https://activity-graph.herokuapp.com/graph?username=goodlunatic&theme=github)
-![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)
 <!--
 **goodlunatic/goodlunatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

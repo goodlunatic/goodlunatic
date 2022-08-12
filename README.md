@@ -1,4 +1,3 @@
-<img src="https://github.com/goodlunatic/goodlunatic/blob/main/png0.jpg" />
 <img src="https://github.com/goodlunatic/goodlunatic/blob/main/header.png" />
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20My%20Friends%20，Welcome%20To%20My%20Github！;Hope%20You%20Have%20A%20Nice%20Day%20:)&font=Roboto" />
 <p>
@@ -8,7 +7,7 @@
 
 
 <!--GitHub Readme Stats-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodlunatic&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodlunatic&show_icons=true&theme=radical)<img src="https://github.com/goodlunatic/goodlunatic/blob/main/png0.jpg" />
 
 ## The OS I used：🚀
 <p align="left">

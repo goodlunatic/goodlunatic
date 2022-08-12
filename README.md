@@ -20,7 +20,7 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=goodlunatic&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-## Skills I learnt:  👇
+## Skills I learnt:  ✅
 <p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,php,wordpress,docker,vim,linux,mysql,powershell,ps,pr)](https://skillicons.dev)

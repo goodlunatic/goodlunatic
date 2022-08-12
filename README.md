@@ -21,7 +21,7 @@ The OS I used：👇
 <p align="left">
 Skills I learnt:  👇
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,php,docker)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,php,docker,github,linux,mysql,vscpde,ps,pr)
 </p>
 
 <p>

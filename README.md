@@ -1,9 +1,5 @@
 <img src="https://github.com/goodlunatic/goodlunatic/blob/main/header.png" />
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20My%20Friends%20，Welcome%20To%20My%20Github！;Hope%20You%20Have%20A%20Nice%20Day%20:)&font=Roboto" />
-<p>
-<a href="http://www.lunatic007.top"><img src="https://img.shields.io/badge/Website-Lunatic%E5%AF%92%E9%B8%A6%E7%9A%84%E5%B0%8F%E5%AE%87%E5%AE%99-blue"/></a>
-<a href="https://blog.csdn.net/qq_60923912?spm=1000.2115.3001.5343"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
-</p>
 
 
 <!--GitHub Readme Stats-->

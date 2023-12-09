@@ -7,8 +7,7 @@
 
 
 <!--GitHub Readme Stats-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodlunatic&show_icons=true&theme=radical)<img src="https://github.com/goodlunatic/goodlunatic/blob/main/png0.jpg" />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodlunatic&show_icons=true&theme=radical)
 ## The OS I used：🚀
 <p align="left">
 

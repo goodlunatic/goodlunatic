@@ -8,46 +8,25 @@
 ```
 
 ## The OS I used：🚀
-<p align="left">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/> <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/>  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/> <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white"/>
-</p>
-
-## Skills I learnt:  ✅
-<p align="left">
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,php,wordpress,docker,vim,linux,mysql,powershell,ps,pr)](https://skillicons.dev)
-</p>
-
-<p>
-</p>
-
-<!--Github Readme Activity Graph-->
-![](https://activity-graph.herokuapp.com/graph?username=goodlunatic&theme=github)
+![My Skills](https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,kali,apple)
 
 
+## My Skill Stack
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,php,mysql,wordpress,docker,git,github,stackoverflow,vim,powershell,vscode,obsidian,ps,pr,au)
+
+<br/>
+
+### Visitors
+<div align="center">
+<img src="https://count.getloli.com/get/@goodlunatic?theme=rule34" align="center" height="" width="" />
+</div>  
+
+<br/>
 
 
+## Recent Posts on My [Blog](https://goodlunatic.github.io/)
+<!-- BLOG-POST-LIST:START -->
 
+<!-- BLOG-POST-LIST:END -->
+<br/>
 
-
-
-
-
-
-
-
-
-
-<!--
-**goodlunatic/goodlunatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -7,7 +7,7 @@
                                                                                                                   
 ```
 
-## The OS I used：🚀
+## The OS I used：
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,kali,apple" />
 </div>
@@ -20,7 +20,7 @@
 
 <br/>
 
-### Visitors
+## Visitors
 <div align="center">
 <img src="https://count.getloli.com/get/@goodlunatic?theme=rule34" align="center" height="" width="" />
 </div>  

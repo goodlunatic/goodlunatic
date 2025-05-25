@@ -7,20 +7,20 @@
                                                                                                                   
 ```
 
-## The OS I used：
+## My Preferred Operating Systems
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,kali,apple" />
 </div>
 
 
-## My Skill Stack
+## Skill Set Overview
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,php,mysql,wordpress,docker,git,github,stackoverflow,vim,powershell,vscode,obsidian,ps,pr,au" />
 </div>
 
 <br/>
 
-## Visitors
+## Visitor Statistics
 <div align="center">
 <img src="https://count.getloli.com/get/@goodlunatic?theme=rule34" align="center" height="" width="" />
 </div>  

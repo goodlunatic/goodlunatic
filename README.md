@@ -30,8 +30,6 @@
 <img src="https://count.getloli.com/get/@goodlunatic?theme=rule34" align="center" height="" width="" />
 </div>  
 
-<br/>
-
 
 ## Recent Posts on My [Blog](https://goodlunatic.github.io/)
 <!-- BLOG-POST-LIST:START -->

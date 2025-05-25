@@ -8,11 +8,15 @@
 ```
 
 ## The OS I used：🚀
-![My Skills](https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,kali,apple)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,kali,apple" />
+</div>
 
 
 ## My Skill Stack
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,php,mysql,wordpress,docker,git,github,stackoverflow,vim,powershell,vscode,obsidian,ps,pr,au)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,php,mysql,wordpress,docker,git,github,stackoverflow,vim,powershell,vscode,obsidian,ps,pr,au" />
+</div>
 
 <br/>
 

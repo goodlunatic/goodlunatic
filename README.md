@@ -43,5 +43,3 @@
 - [2025-04-21 18:50:35 2025 能源网络安全大赛 Misc Writeup](https://goodlunatic.github.io/posts/87bd986/)
 - [2025-04-20 21:14:05 2025 UCSCCTF Misc Writeup](https://goodlunatic.github.io/posts/e9c4fc7/)
 - [2025-04-20 14:56:54 CTF-数据安全](https://goodlunatic.github.io/posts/c49ae8a/)<!-- BLOG-POST-LIST:END -->
-<br/>
-

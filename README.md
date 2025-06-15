@@ -33,6 +33,7 @@
 
 ## Recent Posts on My [Blog](https://goodlunatic.github.io/)
 <!-- BLOG-POST-LIST:START -->
+- [2025-05-28 10:29:38 强网杯-谍影重重系列赛题详解](https://goodlunatic.github.io/posts/1a152f0/)
 - [2025-05-17 00:33:26 Frida Learning Record](https://goodlunatic.github.io/posts/ca974cb/)
 - [2025-05-15 10:15:27 Misc-Network Traffic Analysis](https://goodlunatic.github.io/posts/5422d65/)
 - [2025-05-09 21:10:26 DASCTF 2024最后一战 Misc Writeup](https://goodlunatic.github.io/posts/32c3b27/)
@@ -41,5 +42,4 @@
 - [2025-04-23 14:12:43 Qualcomm高通 诊断日志分析工具的安装及使用](https://goodlunatic.github.io/posts/95cea53/)
 - [2025-04-23 10:51:27 C/C++程序开发学习记录](https://goodlunatic.github.io/posts/e393438/)
 - [2025-04-21 18:50:35 2025 能源网络安全大赛 Misc Writeup](https://goodlunatic.github.io/posts/87bd986/)
-- [2025-04-20 21:14:05 2025 UCSCCTF Misc Writeup](https://goodlunatic.github.io/posts/e9c4fc7/)
-- [2025-04-20 14:56:54 CTF-数据安全](https://goodlunatic.github.io/posts/c49ae8a/)<!-- BLOG-POST-LIST:END -->
+- [2025-04-20 21:14:05 2025 UCSCCTF Misc Writeup](https://goodlunatic.github.io/posts/e9c4fc7/)<!-- BLOG-POST-LIST:END -->

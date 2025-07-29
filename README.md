@@ -7,12 +7,8 @@
                                                                                                                   
 ```
 
-<div style="position: relative; height: 100vh;">
-  <img src="./c.svg" 
-       style="position: absolute; 
-              top: 50%; 
-              left: 50%; 
-              transform: translate(-50%, -50%) scale(0.5);">
+<div style="text-align: center;">
+  <img src="./c.svg" style="width: 50%; height: auto; display: inline-block;">
 </div>
 
 ## My Preferred Operating Systems

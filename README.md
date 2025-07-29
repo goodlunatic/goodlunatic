@@ -7,7 +7,7 @@
                                                                                                                   
 ```
 
-| ![](./c.svg)<br> |
+| <img src="./c.svg" style="width: 50%; height: auto;"> |
 | ----------------------------------------- |
 
 ## My Preferred Operating Systems

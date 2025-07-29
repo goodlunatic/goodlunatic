@@ -7,7 +7,9 @@
                                                                                                                   
 ```
 
-<img src="./c.svg" width="100%" height="100%"></a>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="./c.svg" style="width: 50%; height: auto;">
+</div>
 
 ## My Preferred Operating Systems
 <div align="center">

@@ -7,9 +7,8 @@
                                                                                                                   
 ```
 
-<div style="text-align: center;">
-  <img src="./c.svg" style="width: 50%; height: auto; display: block; margin-left: auto; margin-right: auto;">
-</div>
+| ![](./c.svg)<br> |
+| ----------------------------------------- |
 
 ## My Preferred Operating Systems
 <div align="center">

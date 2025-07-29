@@ -8,7 +8,7 @@
 ```
 
 <div style="text-align: center;">
-  <img src="./c.svg" style="width: 50%; height: auto; display: inline-block;">
+  <img src="./c.svg" style="width: 50%; height: auto; display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 ## My Preferred Operating Systems

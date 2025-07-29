@@ -7,6 +7,8 @@
                                                                                                                   
 ```
 
+<img src="./c.svg" width="100%" height="100%"></a>
+
 ## My Preferred Operating Systems
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,kali,apple" />

@@ -7,7 +7,7 @@
                                                                                                                   
 ```
 
-<img src="./c.svg" style="width: auto; height: 50%;">
+<img src="./c.svg" style="width: 10px; height: 10px;">
 
 ## My Preferred Operating Systems
 <div align="center">

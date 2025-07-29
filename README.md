@@ -6,8 +6,9 @@
 /_/ /_/_/    /_/ /_/ /_/\___/_/   \___/  (_)      /___/   \__,_/_/ /_/ /_/  /_____/\__,_/_/ /_/\__,_/\__/_/\___/  
                                                                                                                   
 ```
-
+<div align="center">
 <img src="./c.svg" style="width: 50%; height: 50%;">
+</div>
 
 ## My Preferred Operating Systems
 <div align="center">

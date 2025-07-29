@@ -7,8 +7,12 @@
                                                                                                                   
 ```
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="./c.svg" style="width: 50%; height: auto;">
+<div style="position: relative; height: 100vh;">
+  <img src="./c.svg" 
+       style="position: absolute; 
+              top: 50%; 
+              left: 50%; 
+              transform: translate(-50%, -50%) scale(0.5);">
 </div>
 
 ## My Preferred Operating Systems

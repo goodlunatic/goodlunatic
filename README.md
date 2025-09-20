@@ -36,10 +36,10 @@
 
 ## Recent Posts on My [Blog](https://goodlunatic.github.io/)
 <!-- BLOG-POST-LIST:START -->
+- [2025-09-20 22:10:17 CTF-Misc Guide](https://goodlunatic.github.io/posts/1ad9200/)
 - [2025-09-20 18:27:15 2025 泰山杯线下决赛 Misc Writeup](https://goodlunatic.github.io/posts/58b2135/)
 - [2025-09-19 09:10:58 CTF-Misc &quot;雅&quot;题共赏](https://goodlunatic.github.io/posts/d0736a7/)
 - [2025-09-17 21:20:11 群友们问的一些来路不明的题](https://goodlunatic.github.io/posts/bb1da35/)
-- [2025-09-12 21:10:17 CTF-Misc Guide](https://goodlunatic.github.io/posts/1ad9200/)
 - [2025-08-30 22:50:12 Misc-Forensics](https://goodlunatic.github.io/posts/761da51/)
 - [2025-08-17 13:33:22 2025 “天一永安杯”宁波市赛初赛 Misc Writeup](https://goodlunatic.github.io/posts/30d0764/)
 - [2025-08-16 14:15:38 CTF-Reverse学习记录](https://goodlunatic.github.io/posts/0f92e23/)

@@ -36,6 +36,7 @@
 
 ## Recent Posts on My [Blog](https://goodlunatic.github.io/)
 <!-- BLOG-POST-LIST:START -->
+- [2025-09-20 18:27:15 2025 泰山杯线下决赛 Misc Writeup](https://goodlunatic.github.io/posts/58b2135/)
 - [2025-09-19 09:10:58 CTF-Misc &quot;雅&quot;题共赏](https://goodlunatic.github.io/posts/d0736a7/)
 - [2025-09-17 21:20:11 群友们问的一些来路不明的题](https://goodlunatic.github.io/posts/bb1da35/)
 - [2025-09-12 21:10:17 CTF-Misc Guide](https://goodlunatic.github.io/posts/1ad9200/)
@@ -44,5 +45,4 @@
 - [2025-08-16 14:15:38 CTF-Reverse学习记录](https://goodlunatic.github.io/posts/0f92e23/)
 - [2025-08-03 16:48:15 如何基于 srsRAN_4G 搭建 LTE 基站](https://goodlunatic.github.io/posts/ed6ecd5/)
 - [2025-07-05 00:00:36 如何给Wireshark添加LTE和NR支持](https://goodlunatic.github.io/posts/4c7a04a/)
-- [2025-05-28 10:29:38 强网杯-谍影重重系列赛题详解](https://goodlunatic.github.io/posts/1a152f0/)
-- [2025-05-17 00:33:26 Frida Learning Record](https://goodlunatic.github.io/posts/ca974cb/)<!-- BLOG-POST-LIST:END -->
+- [2025-05-28 10:29:38 强网杯-谍影重重系列赛题详解](https://goodlunatic.github.io/posts/1a152f0/)<!-- BLOG-POST-LIST:END -->

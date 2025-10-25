@@ -38,7 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [2025-10-22 09:10:58 CTF-Misc &quot;雅&quot;题共赏](https://goodlunatic.github.io/posts/d0736a7/)
 - [2025-10-19 20:20:11 群友们问的一些来路不明的题](https://goodlunatic.github.io/posts/bb1da35/)
-- [2025-10-16 12:10:17 CTF-Misc Guide](https://goodlunatic.github.io/posts/1ad9200/)
+- [2025-10-16 12:10:17 [置顶] CTF-Misc Guide](https://goodlunatic.github.io/posts/1ad9200/)
 - [2025-10-14 20:00:45 2025 第九届工业信息安全技能大赛-典型工业场景锦标赛 Misc Writeup](https://goodlunatic.github.io/posts/49bdad5/)
 - [2025-10-14 10:28:49 2025 TSCTF-J Writeup](https://goodlunatic.github.io/posts/443835e/)
 - [2025-09-25 12:38:43 利用 SCAT 实时捕获 4G-LTE 和 5G-NR 层三以上消息](https://goodlunatic.github.io/posts/a8aa439/)

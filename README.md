@@ -36,6 +36,7 @@
 
 ## Recent Posts on My [Blog](https://goodlunatic.github.io/)
 <!-- BLOG-POST-LIST:START -->
+- [2025-12-02 10:09:35 2025 强网拟态防御国际精英挑战赛线下总决赛 Misc Writeup](https://goodlunatic.github.io/posts/353513a/)
 - [2025-11-26 09:10:58 CTF-Misc &quot;雅&quot;题共赏](https://goodlunatic.github.io/posts/d0736a7/)
 - [2025-11-25 10:10:17 [持续更新] CTF-Misc Guide](https://goodlunatic.github.io/posts/1ad9200/)
 - [2025-11-18 15:12:02 CTF-渗透测试](https://goodlunatic.github.io/posts/417c7ba/)
@@ -44,5 +45,4 @@
 - [2025-10-29 10:18:00 2025 华为杯中国研究生网络安全创新大赛实网对抗赛 EZ_ATEXEC 详解](https://goodlunatic.github.io/posts/02298dd/)
 - [2025-10-25 19:35:25 2025 振兴杯江西省网络安全大赛 Misc Writeup](https://goodlunatic.github.io/posts/16c4937/)
 - [2025-10-19 20:20:11 星球朋友们问的一些来路不明的题](https://goodlunatic.github.io/posts/bb1da35/)
-- [2025-10-17 10:08:10 Misc-AI安全](https://goodlunatic.github.io/posts/c5bc8a2/)
-- [2025-10-14 20:00:45 2025 第九届工业信息安全技能大赛-典型工业场景锦标赛 Misc Writeup](https://goodlunatic.github.io/posts/49bdad5/)<!-- BLOG-POST-LIST:END -->
+- [2025-10-17 10:08:10 Misc-AI安全](https://goodlunatic.github.io/posts/c5bc8a2/)<!-- BLOG-POST-LIST:END -->

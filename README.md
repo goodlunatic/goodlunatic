@@ -36,6 +36,7 @@
 
 ## Recent Posts on My [Blog](https://goodlunatic.github.io/)
 <!-- BLOG-POST-LIST:START -->
+- [2026-01-15 21:46:22 CTF-Reverse刷题记录](https://goodlunatic.github.io/posts/b7a1d1b/)
 - [2026-01-15 09:10:58 CTF-Misc &quot;雅&quot;题共赏](https://goodlunatic.github.io/posts/d0736a7/)
 - [2026-01-13 15:20:11 星球朋友们问的一些来路不明的题](https://goodlunatic.github.io/posts/bb1da35/)
 - [2026-01-12 10:22:38 [持续更新] 记录各种app关闭广告和推荐的方法](https://goodlunatic.github.io/posts/911b6a0/)
@@ -44,5 +45,4 @@
 - [2026-01-05 22:21:03 2025 年终总结](https://goodlunatic.github.io/posts/6cc9a96/)
 - [2025-12-11 10:26:43 2025 古剑山全国大学生网络攻防大赛 Misc Writeup](https://goodlunatic.github.io/posts/380aa02/)
 - [2025-12-02 10:09:35 2025 强网拟态防御国际精英挑战赛线下总决赛 Misc Writeup](https://goodlunatic.github.io/posts/353513a/)
-- [2025-11-18 15:12:02 CTF-渗透测试](https://goodlunatic.github.io/posts/417c7ba/)
-- [2025-11-18 10:56:18 2025 浙江省大学生网络与信息安全竞赛 Misc Writeup](https://goodlunatic.github.io/posts/8582ff7/)<!-- BLOG-POST-LIST:END -->
+- [2025-11-18 15:12:02 CTF-渗透测试](https://goodlunatic.github.io/posts/417c7ba/)<!-- BLOG-POST-LIST:END -->
